@@ -1,3 +1,8 @@
+---
+title: HCP LEARN BOUNDARY - AZURE
+description: HashiCorp Bounday on Azure
+---
+
 # HCP LEARN BOUNDARY - AZURE
 
 
