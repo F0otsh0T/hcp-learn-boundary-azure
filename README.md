@@ -15,7 +15,7 @@ description: HashiCorp Bounday on Azure
 
 ## OVERVIEW
 
-![HCP Boundary in Azure Overview](assets/hcp_boundary.azure.01.png "HCP Boundary in Azure Overview")
+[![HCP Boundary in Azure Overview](assets/hcp_boundary.azure.01.png "HCP Boundary in Azure Overview")](https://developer.hashicorp.com/boundary/tutorials/hcp-administration/hcp-manage-multi-hop)
 
 ## INPUTS
 ##### Environment Variables
